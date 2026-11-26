@@ -186,10 +186,9 @@ const Home = () => {
                 }}
               >
                 <img
-                  src="https://picsum.photos/seed/shopease-hero/800/420"
+                  src="/images/hero-showcase.jpg"
                   alt="ShopEase Showcase"
                   style={{ width: '100%', height: '420px', objectFit: 'cover' }}
-                  onError={(e) => { e.currentTarget.onerror = null; e.currentTarget.src = 'https://picsum.photos/800/420'; }}
                 />
                 <div
                   style={{
@@ -368,10 +367,9 @@ const Home = () => {
             }}
           >
             <img
-              src="https://picsum.photos/seed/promo-headphone/260/260"
+              src="/images/promo-headphone.jpg"
               alt="Promo Headphone"
               style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-              onError={(e) => { e.currentTarget.onerror = null; e.currentTarget.src = 'https://picsum.photos/260/260'; }}
             />
           </div>
         </div>

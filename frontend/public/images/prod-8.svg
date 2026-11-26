@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#164e63"/><stop offset="100%" style="stop-color:#06b6d4"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <!-- Aviator frame -->
+  <path d="M230 240 Q230 180 310 180 Q380 180 390 240 Q400 180 470 180 Q555 180 555 240 Q555 300 470 300 Q400 300 390 240 Q380 300 310 300 Q230 300 230 240 Z" fill="none" stroke="white" stroke-width="7"/>
+  <!-- Bridge -->
+  <path d="M390 235 Q400 225 390 215" fill="none" stroke="white" stroke-width="5"/>
+  <!-- Temple arms -->
+  <line x1="230" y1="240" x2="150" y2="225" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <line x1="555" y1="240" x2="635" y2="225" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <!-- Lens tint -->
+  <ellipse cx="310" cy="240" rx="78" ry="58" fill="rgba(6,182,212,0.25)"/>
+  <ellipse cx="470" cy="240" rx="82" ry="58" fill="rgba(6,182,212,0.25)"/>
+  <!-- Glare -->
+  <ellipse cx="285" cy="215" rx="18" ry="10" fill="white" opacity="0.3" transform="rotate(-30 285 215)"/>
+  <ellipse cx="445" cy="215" rx="18" ry="10" fill="white" opacity="0.3" transform="rotate(-30 445 215)"/>
+  <text x="400" y="460" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Aviator Sunglasses</text>
+  <text x="400" y="490" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="middle">Polarized UV400</text>
+</svg>

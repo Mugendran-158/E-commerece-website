@@ -3,42 +3,42 @@ export const SAMPLE_CATEGORIES = [
     id: 1,
     name: "Electronics",
     description: "Smartphones, laptops, audio gadgets & smart wearables",
-    imageUrl: "https://picsum.photos/seed/electronics/600/400",
+    imageUrl: "/images/cat-electronics.jpg",
     itemCount: 18
   },
   {
     id: 2,
     name: "Fashion",
     description: "Trending apparel, jackets, streetwear and summer fits",
-    imageUrl: "https://picsum.photos/seed/fashion/600/400",
+    imageUrl: "/images/cat-fashion.jpg",
     itemCount: 24
   },
   {
     id: 3,
     name: "Shoes",
     description: "Athletic sneakers, running kicks, leather boots & casual loafers",
-    imageUrl: "https://picsum.photos/seed/shoes/600/400",
+    imageUrl: "/images/cat-shoes.jpg",
     itemCount: 15
   },
   {
     id: 4,
     name: "Beauty",
     description: "Skincare essentials, fragrances, cosmetics & haircare",
-    imageUrl: "https://picsum.photos/seed/beauty/600/400",
+    imageUrl: "/images/cat-beauty.jpg",
     itemCount: 12
   },
   {
     id: 5,
     name: "Home",
     description: "Aesthetic furniture, ambient lighting, decor & kitchen essentials",
-    imageUrl: "https://picsum.photos/seed/homedecor/600/400",
+    imageUrl: "/images/cat-home.jpg",
     itemCount: 16
   },
   {
     id: 6,
     name: "Accessories",
     description: "Luxury timepieces, leather wallets, sunglasses & backpacks",
-    imageUrl: "https://picsum.photos/seed/accessories/600/400",
+    imageUrl: "/images/cat-accessories.jpg",
     itemCount: 20
   }
 ];
@@ -55,7 +55,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.8,
     reviewsCount: 1420,
     stockQuantity: 25,
-    imageUrl: "https://picsum.photos/seed/headphones/800/600",
+    imageUrl: "/images/prod-1.jpg",
     isFeatured: true
   },
   {
@@ -69,7 +69,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.7,
     reviewsCount: 890,
     stockQuantity: 40,
-    imageUrl: "https://picsum.photos/seed/runningshoes/800/600",
+    imageUrl: "/images/prod-2.jpg",
     isFeatured: true
   },
   {
@@ -83,7 +83,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.9,
     reviewsCount: 310,
     stockQuantity: 18,
-    imageUrl: "https://picsum.photos/seed/watch/800/600",
+    imageUrl: "/images/prod-3.jpg",
     isFeatured: true
   },
   {
@@ -97,7 +97,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.6,
     reviewsCount: 450,
     stockQuantity: 50,
-    imageUrl: "https://picsum.photos/seed/hoodie/800/600",
+    imageUrl: "/images/prod-4.jpg",
     isFeatured: true
   },
   {
@@ -111,7 +111,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.8,
     reviewsCount: 680,
     stockQuantity: 30,
-    imageUrl: "https://picsum.photos/seed/keyboard/800/600",
+    imageUrl: "/images/prod-5.jpg",
     isFeatured: false
   },
   {
@@ -125,7 +125,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.9,
     reviewsCount: 520,
     stockQuantity: 65,
-    imageUrl: "https://picsum.photos/seed/serum/800/600",
+    imageUrl: "/images/prod-6.jpg",
     isFeatured: true
   },
   {
@@ -139,7 +139,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.5,
     reviewsCount: 195,
     stockQuantity: 22,
-    imageUrl: "https://picsum.photos/seed/lamp/800/600",
+    imageUrl: "/images/prod-7.jpg",
     isFeatured: false
   },
   {
@@ -153,7 +153,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.7,
     reviewsCount: 380,
     stockQuantity: 35,
-    imageUrl: "https://picsum.photos/seed/sunglasses/800/600",
+    imageUrl: "/images/prod-8.jpg",
     isFeatured: false
   },
   {
@@ -167,7 +167,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.9,
     reviewsCount: 290,
     stockQuantity: 15,
-    imageUrl: "https://picsum.photos/seed/messengerbag/800/600",
+    imageUrl: "/images/prod-9.jpg",
     isFeatured: true
   },
   {
@@ -181,7 +181,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.6,
     reviewsCount: 940,
     stockQuantity: 45,
-    imageUrl: "https://picsum.photos/seed/fitnesstracker/800/600",
+    imageUrl: "/images/prod-10.jpg",
     isFeatured: false
   },
   {
@@ -195,7 +195,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.8,
     reviewsCount: 310,
     stockQuantity: 28,
-    imageUrl: "https://picsum.photos/seed/bedsheets/800/600",
+    imageUrl: "/images/prod-11.jpg",
     isFeatured: false
   },
   {
@@ -209,7 +209,7 @@ export const SAMPLE_PRODUCTS = [
     rating: 4.7,
     reviewsCount: 220,
     stockQuantity: 20,
-    imageUrl: "https://picsum.photos/seed/hightops/800/600",
+    imageUrl: "/images/prod-12.jpg",
     isFeatured: false
   }
 ];

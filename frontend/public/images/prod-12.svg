@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1c1917"/><stop offset="100%" style="stop-color:#78716c"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <!-- Shoe upper -->
+  <path d="M180 350 Q195 285 250 270 L400 258 Q465 254 510 275 L590 320 Q618 338 618 358 L618 388 Q618 405 598 405 L200 405 Q176 405 176 382 Z" fill="white" opacity="0.88"/>
+  <!-- Sole -->
+  <path d="M176 382 Q172 405 205 408 L598 408 Q628 408 622 390" fill="none" stroke="white" stroke-width="6"/>
+  <!-- High ankle collar -->
+  <path d="M250 270 Q245 200 265 175 Q285 155 305 175 L310 258" fill="rgba(255,255,255,0.6)" stroke="white" stroke-width="5"/>
+  <!-- Laces -->
+  <line x1="295" y1="285" x2="470" y2="275" stroke="#78716c" stroke-width="4"/>
+  <line x1="290" y1="305" x2="472" y2="295" stroke="#78716c" stroke-width="4"/>
+  <line x1="320" y1="285" x2="318" y2="305" stroke="#78716c" stroke-width="4"/>
+  <line x1="355" y1="283" x2="353" y2="303" stroke="#78716c" stroke-width="4"/>
+  <line x1="390" y1="281" x2="388" y2="301" stroke="#78716c" stroke-width="4"/>
+  <line x1="425" y1="279" x2="425" y2="299" stroke="#78716c" stroke-width="4"/>
+  <line x1="455" y1="278" x2="455" y2="298" stroke="#78716c" stroke-width="4"/>
+  <text x="400" y="478" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Suede High-Top Sneakers</text>
+  <text x="400" y="508" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="middle">Urban Streetwear</text>
+</svg>

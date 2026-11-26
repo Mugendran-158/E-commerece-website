@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#065f46"/><stop offset="100%" style="stop-color:#34d399"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <!-- Bed sheets layered look -->
+  <rect x="160" y="200" width="480" height="280" rx="15" fill="white" opacity="0.15"/>
+  <rect x="175" y="185" width="450" height="270" rx="12" fill="white" opacity="0.2"/>
+  <rect x="190" y="170" width="420" height="260" rx="10" fill="white" opacity="0.75"/>
+  <!-- Pillow -->
+  <rect x="210" y="185" width="170" height="100" rx="20" fill="white" opacity="0.9"/>
+  <rect x="420" y="185" width="170" height="100" rx="20" fill="white" opacity="0.9"/>
+  <!-- Sheet fold -->
+  <path d="M190 300 Q400 320 610 300 L610 430 Q400 440 190 430 Z" fill="rgba(255,255,255,0.5)"/>
+  <!-- Bamboo pattern -->
+  <line x1="190" y1="310" x2="610" y2="310" stroke="rgba(52,211,153,0.3)" stroke-width="1.5"/>
+  <line x1="190" y1="330" x2="610" y2="330" stroke="rgba(52,211,153,0.3)" stroke-width="1.5"/>
+  <line x1="190" y1="350" x2="610" y2="350" stroke="rgba(52,211,153,0.3)" stroke-width="1.5"/>
+  <text x="400" y="510" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Bamboo Bed Sheet Set</text>
+  <text x="400" y="540" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="middle">Organic 300 Thread Count</text>
+</svg>

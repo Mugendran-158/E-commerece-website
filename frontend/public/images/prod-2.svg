@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#14532d"/><stop offset="100%" style="stop-color:#16a34a"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <path d="M180 350 Q190 290 240 275 L400 265 Q460 260 510 285 L590 325 Q620 340 620 360 L620 385 Q620 400 600 400 L200 400 Q175 400 175 378 Z" fill="white" opacity="0.88"/>
+  <path d="M175 378 Q175 400 205 400 L600 400 Q625 400 625 378" fill="none" stroke="white" stroke-width="6"/>
+  <line x1="300" y1="295" x2="460" y2="285" stroke="#16a34a" stroke-width="4"/>
+  <line x1="295" y1="315" x2="465" y2="305" stroke="#16a34a" stroke-width="4"/>
+  <line x1="330" y1="295" x2="328" y2="315" stroke="#16a34a" stroke-width="4"/>
+  <line x1="370" y1="292" x2="368" y2="312" stroke="#16a34a" stroke-width="4"/>
+  <line x1="410" y1="290" x2="408" y2="310" stroke="#16a34a" stroke-width="4"/>
+  <line x1="445" y1="288" x2="445" y2="308" stroke="#16a34a" stroke-width="4"/>
+  <text x="400" y="470" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Nike Air Zoom Pegasus</text>
+  <text x="400" y="500" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.7)" text-anchor="middle">Running Shoes</text>
+</svg>
